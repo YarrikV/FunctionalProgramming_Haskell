@@ -1,0 +1,1 @@
+width: 1height: 3sources: {(0, 0), (2,0) }sinks: {(0, 0)}tiles: {{pos: (0, 0), fixed: no, default: open}	   ,{pos: (2,0), fixed: yes, default: open, south: closed}}
